@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ServiceExplorer.CommandLine": {
+      "commandName": "Project",
+      "commandLineArgs": "service -sle -sre --plot -inle -iswe"
+    }
+  }
+}
